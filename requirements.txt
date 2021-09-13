@@ -1,0 +1,10 @@
+# Requirements
+
+Numpy == v.1.20.0
+Pandas == v1.2.3
+Seaborn == v0.11.1
+Matplotlib == v3.4.1
+Sklearn == 0.24.1
+
+Torch == v1.8.1
+Skorch == v0.10.1

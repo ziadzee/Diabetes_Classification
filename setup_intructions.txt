@@ -1,0 +1,18 @@
+Instructions
+
+1. Extract files from the Code folder
+
+
+
+2. Open EDA, MLPs, SVM .ipynb files for viewing
+
+ 2.1 NOTE: it is strongly recommended NOT to run MLPs and SVM files locally to avoid waiting until completion. Both files have been saved with outputs already visible.
+
+
+
+3. Open the Best_models.ipynb file and run locally. Best_models.ipynb will make use of the optimal_mlp and optimal_svm pickle files.
+
+
+Notes:
+
+HTML files have been provided for all ipynb files however MLPs.html has the grid search output saved and as a result, makes for harder viewing. Instead, it is recommended to view the MLPs.ipynb file which has the outputs visible and the grid search output truncated. 
