@@ -14,7 +14,8 @@
 # Specifications
 Code, data and files for the above can be found in the following files:
 
-`MLP`: code for MLP model and corresponding visulisations
-`SVM`: code for SVM model and corresponding visulisations
-`EDA`: exploratory data analysis on the diabete dataset
-`Data`: PIMA Indians Diabetes dataset
+- `MLP`: code for MLP model and corresponding visulisations
+- `SVM`: code for SVM model and corresponding visulisations
+- `EDA`: exploratory data analysis on the diabete dataset
+- `Data`: PIMA Indians Diabetes dataset
+- `Best_models`: comparing model performance between MLP and SVM
